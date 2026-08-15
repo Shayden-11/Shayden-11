@@ -1,8 +1,9 @@
 ### 📊 GitHub Stats
 
+<### 📊 Contribution Graph
+
 <p align="left">
-  <img src="https://stats.justcaliturner.com/api?username=Shayden-11&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://stats.justcaliturner.com/api/top-langs/?username=Shayden-11&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 </p>
 
 ### 🔥 Contribution Streak
