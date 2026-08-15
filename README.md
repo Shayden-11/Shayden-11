@@ -25,5 +25,5 @@
 </p>
 
 <p align="left">
-  <img src="https://count.getloli.com/get/@Shayden-11?theme=rule34" alt="Profile Visits" />
+  <img src="https://count.getloli.com/get/@Shayden-11?theme=asoul" alt="Profile Visits" />
 </p>
