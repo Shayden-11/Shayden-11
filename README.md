@@ -23,3 +23,5 @@
 <p align="left">
   <img src="https://streak-stats.demolab.com/?user=Shayden-11&theme=tokyonight&hide_border=true" alt="Contribution Streak" />
 </p>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Shayden-11&color=blueviolet&style=for-the-badge)
