@@ -27,3 +27,5 @@
 <p align="left">
   <img src="https://count.getloli.com/get/@Shayden-11?theme=gelbooru-h" alt="Profile Visits" />
 </p>
+
+![Unique Visitors](https://visitor-badge.laobi.icu/badge?page_id=Shayden-11.profile&title=Unique%20Visitors)
