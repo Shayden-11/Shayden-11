@@ -1,9 +1,21 @@
-### Hi there, I'm S Shayden 👋
+### 📊 GitHub Stats
 
-I'm a software developer focused on building interactive web applications, browser simulations, and practical AI tooling.
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shayden-11&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shayden-11&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
-- 💻 **Core Tech:** JavaScript (ES6+), HTML5/CSS3, Python, Java, SQL
-- 🕹️ **Projects:** Web-based simulation games, predictive civic data tools, local LLM integrations
-- ⚙️ **Focus:** Front-end logic, UI/UX polish, simulation mechanics, system architecture
+### 🛠️ Tech Stack & Tools
 
-📫 *Let's build something efficient and interactive.*
+**Languages & Core**  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+**Frameworks & Tools**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
