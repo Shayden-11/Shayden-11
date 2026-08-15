@@ -19,3 +19,11 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+### 🔥 Contribution Streak
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shayden-11&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+<p align="left">
+  <img src="https://count.getloli.com/get/@Shayden-11?theme=rule34" alt="Profile Visits" />
+</p>
