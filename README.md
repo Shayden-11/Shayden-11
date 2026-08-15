@@ -22,7 +22,7 @@
 
 ### 🔥 Contribution Streak
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shayden-11&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Shayden-11)](https://git.io/streak-stats)
 
 <p align="left">
   <img src="https://count.getloli.com/get/@Shayden-11?theme=rule34" alt="Profile Visits" />
