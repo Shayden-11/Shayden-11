@@ -24,8 +24,6 @@
   <img src="https://streak-stats.demolab.com/?user=Shayden-11&theme=tokyonight&hide_border=true" alt="Contribution Streak" />
 </p>
 
-<p align="left">
-  <img src="https://count.getloli.com/get/@Shayden-11?theme=gelbooru-h" alt="Profile Visits" />
-</p>
+![Visitors](https://img.shields.io/badge/VISITORS-black?style=for-the-badge&logo=target&logoColor=red&labelColor=1a1b26&color=414868)
 
 ![Unique Visitors](https://visitor-badge.laobi.icu/badge?page_id=Shayden-11.profile&title=Unique%20Visitors)
